@@ -11,7 +11,8 @@ public class AppTest
 {
     /**
      * Create the test case
-     *
+     * Ajout d'une ligne de code pour la merge request
+     * 
      * @param testName name of the test case
      */
     public AppTest( String testName )
