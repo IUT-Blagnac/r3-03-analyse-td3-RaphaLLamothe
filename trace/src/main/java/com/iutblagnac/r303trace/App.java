@@ -11,6 +11,9 @@ public class App
         System.out.println(hello());
     }
 
+    /** Affiche le message "Hello WOrld"
+    * 
+    */
     public static String hello() {
         return  "Hello World!" ;
     }
