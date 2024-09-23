@@ -37,6 +37,7 @@ public class AppTest
 
     /**
      * Test the return with a parameter
+     * Il marche
      */
     public void testHelloParameter()
     {
