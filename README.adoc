@@ -82,3 +82,6 @@ image::merge.png[width=100%,pdfwidth=60%]
 image::tracebranches.png[width=60%,pdfwidth=60%]
 +
 . Répétez l'opération pour une fonctionnalité de votre choix, un peu plus compliquée. Juste pour tester que cette  démarche est acquise.
+
+
+ATTENTION : Il est difficile de comprendre ce TP, et de plus, de le réaliser. Accepter le merge crée une request auprès de JMB, créateur du projet, or, il ne semble pas qu'il s'agit de ce que nous souhaitons. Nous ne pouvons donc pas avancer comme souhaité, ou, dans le cas inverse, nous avons fini le TP
