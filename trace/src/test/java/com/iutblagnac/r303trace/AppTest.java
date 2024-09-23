@@ -29,6 +29,7 @@ public class AppTest
 
     /**
      * Test the return with empty parameter
+     * Ca marche
      */
     public void testHelloEmptyParameter()
     {
